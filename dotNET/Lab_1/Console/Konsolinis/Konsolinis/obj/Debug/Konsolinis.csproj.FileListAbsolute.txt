@@ -1,0 +1,8 @@
+C:\Users\Mantas\Desktop\Mokslai\2 semestras\Objektinis Programavimas\L4\Console\Konsolinis\Konsolinis\bin\Debug\Konsolinis.exe.config
+C:\Users\Mantas\Desktop\Mokslai\2 semestras\Objektinis Programavimas\L4\Console\Konsolinis\Konsolinis\bin\Debug\Konsolinis.exe
+C:\Users\Mantas\Desktop\Mokslai\2 semestras\Objektinis Programavimas\L4\Console\Konsolinis\Konsolinis\bin\Debug\Konsolinis.pdb
+C:\Users\Mantas\Desktop\Mokslai\2 semestras\Objektinis Programavimas\L4\Console\Konsolinis\Konsolinis\obj\Debug\Konsolinis.csprojResolveAssemblyReference.cache
+C:\Users\Mantas\Desktop\Mokslai\2 semestras\Objektinis Programavimas\L4\Console\Konsolinis\Konsolinis\obj\Debug\Konsolinis.exe
+C:\Users\Mantas\Desktop\Mokslai\2 semestras\Objektinis Programavimas\L4\Console\Konsolinis\Konsolinis\obj\Debug\Konsolinis.pdb
+C:\Users\Mantas\Desktop\Mokslai\2 semestras\Objektinis Programavimas\L4\Console\Konsolinis\Konsolinis\bin\Debug\D1.txt
+C:\Users\Mantas\Desktop\Mokslai\2 semestras\Objektinis Programavimas\L4\Console\Konsolinis\Konsolinis\bin\Debug\D2.txt

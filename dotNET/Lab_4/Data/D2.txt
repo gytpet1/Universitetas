@@ -1,0 +1,7 @@
+﻿K16A;Kauno diena;Kauno Spauda;2,5
+KKM2;Smagios žinios;Kauno Spauda;0,5
+RQ458;Prie kavos;Rytas;1
+RK44;Bulvaras;Rytas;3
+Z123;Savaite;Lietuvos žinios;4,4
+Z321;Valstybė;Lietuvos žinios;3,3
+V777;Verslo diena;Verslo žinios;5,5

@@ -1,0 +1,11 @@
+﻿2016-05-10
+Kasparavičius;Studentų g. 50;1;2;K16A;1
+Petrauskas;Pilies g. 16B;4;1;KKM2;2
+Daumantas;Savanorių pr. 102;9;2;Z123;1
+Kasparavičiene;Jonavos g. 22A;3;8;KKM2;2
+Ramadis;Studentų g. 69;3;4;RQ458;1
+Suslavičius;Šilelio a. 8;2;2;V777;4
+Pocius;Studentų g. 70;2;4;RK44;2
+Kestutėnas;Malibū g. 8;9;1;Z321;3
+Jonaitis;Baršausko g. 15;12;4;RQ458;1
+Simaitis;Daukanto g. 11;11;3;RK44;2

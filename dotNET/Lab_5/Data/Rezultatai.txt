@@ -1,0 +1,153 @@
+Prenumeruotojai
+.........................................................................................................................
+|Kasparavičius   | Studentų g. 50       | Užsakyta: 1 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: K16A  | 1vnt.|
+|Petrauskas      | Pilies g. 16B        | Užsakyta: 4 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Daumantas       | Savanorių pr. 102    | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: Z123  | 1vnt.|
+|Kasparavičienė  | Jonavos g. 22A       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 8 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Ramadis         | Studentų g. 69       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Suslavičius     | Šilelio a. 8         | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: V777  | 4vnt.|
+|Pocius          | Studentų g. 70       | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kestutėnas      | Malibū g. 8          | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: Z321  | 3vnt.|
+|Jonaitis        | Baršausko g. 15      | Užsakyta: 12mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Simaitis        | Daukanto g. 11       | Užsakyta: 11mėn. | Prenumeravimo trukmė: 3 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kasparavičius   | Studentų g. 50       | Užsakyta: 1 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: K16A  | 1vnt.|
+|Petrauskas      | Pilies g. 16B        | Užsakyta: 4 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Daumantas       | Savanorių pr. 102    | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: Z123  | 1vnt.|
+|Kasparavičienė  | Jonavos g. 22A       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 8 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Ramadis         | Studentų g. 69       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Suslavičius     | Šilelio a. 8         | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: V777  | 4vnt.|
+|Pocius          | Studentų g. 70       | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kestutėnas      | Malibū g. 8          | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: Z321  | 3vnt.|
+|Jonaitis        | Baršausko g. 15      | Užsakyta: 12mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Simaitis        | Daukanto g. 11       | Užsakyta: 11mėn. | Prenumeravimo trukmė: 3 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kasparavičius   | Studentų g. 50       | Užsakyta: 1 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: K16A  | 1vnt.|
+|Petrauskas      | Pilies g. 16B        | Užsakyta: 4 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Daumantas       | Savanorių pr. 102    | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: Z123  | 1vnt.|
+|Kasparavičienė  | Jonavos g. 22A       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 8 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Ramadis         | Studentų g. 69       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Suslavičius     | Šilelio a. 8         | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: V777  | 4vnt.|
+|Pocius          | Studentų g. 70       | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kestutėnas      | Malibū g. 8          | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: Z321  | 3vnt.|
+|Jonaitis        | Baršausko g. 15      | Užsakyta: 12mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Simaitis        | Daukanto g. 11       | Užsakyta: 11mėn. | Prenumeravimo trukmė: 3 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kasparavičius   | Studentų g. 50       | Užsakyta: 1 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: K16A  | 1vnt.|
+|Petrauskas      | Pilies g. 16B        | Užsakyta: 4 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Daumantas       | Savanorių pr. 102    | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: Z123  | 1vnt.|
+|Kasparavičienė  | Jonavos g. 22A       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 8 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Ramadis         | Studentų g. 69       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Suslavičius     | Šilelio a. 8         | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: V777  | 4vnt.|
+|Pocius          | Studentų g. 70       | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kestutėnas      | Malibū g. 8          | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: Z321  | 3vnt.|
+|Jonaitis        | Baršausko g. 15      | Užsakyta: 12mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Simaitis        | Daukanto g. 11       | Užsakyta: 11mėn. | Prenumeravimo trukmė: 3 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kasparavičius   | Studentų g. 50       | Užsakyta: 1 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: K16A  | 1vnt.|
+|Petrauskas      | Pilies g. 16B        | Užsakyta: 4 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Daumantas       | Savanorių pr. 102    | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: Z123  | 1vnt.|
+|Kasparavičienė  | Jonavos g. 22A       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 8 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Ramadis         | Studentų g. 69       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Suslavičius     | Šilelio a. 8         | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: V777  | 4vnt.|
+|Pocius          | Studentų g. 70       | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kestutėnas      | Malibū g. 8          | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: Z321  | 3vnt.|
+|Jonaitis        | Baršausko g. 15      | Užsakyta: 12mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Simaitis        | Daukanto g. 11       | Užsakyta: 11mėn. | Prenumeravimo trukmė: 3 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kasparavičius   | Studentų g. 50       | Užsakyta: 1 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: K16A  | 1vnt.|
+|Petrauskas      | Pilies g. 16B        | Užsakyta: 4 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Daumantas       | Savanorių pr. 102    | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: Z123  | 1vnt.|
+|Kasparavičienė  | Jonavos g. 22A       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 8 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Ramadis         | Studentų g. 69       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Suslavičius     | Šilelio a. 8         | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: V777  | 4vnt.|
+|Pocius          | Studentų g. 70       | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kestutėnas      | Malibū g. 8          | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: Z321  | 3vnt.|
+|Jonaitis        | Baršausko g. 15      | Užsakyta: 12mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Simaitis        | Daukanto g. 11       | Užsakyta: 11mėn. | Prenumeravimo trukmė: 3 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kasparavičius   | Studentų g. 50       | Užsakyta: 1 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: K16A  | 1vnt.|
+|Petrauskas      | Pilies g. 16B        | Užsakyta: 4 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Daumantas       | Savanorių pr. 102    | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: Z123  | 1vnt.|
+|Kasparavičienė  | Jonavos g. 22A       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 8 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Ramadis         | Studentų g. 69       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Suslavičius     | Šilelio a. 8         | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: V777  | 4vnt.|
+|Pocius          | Studentų g. 70       | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kestutėnas      | Malibū g. 8          | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: Z321  | 3vnt.|
+|Jonaitis        | Baršausko g. 15      | Užsakyta: 12mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Simaitis        | Daukanto g. 11       | Užsakyta: 11mėn. | Prenumeravimo trukmė: 3 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kasparavičius   | Studentų g. 50       | Užsakyta: 1 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: K16A  | 1vnt.|
+|Petrauskas      | Pilies g. 16B        | Užsakyta: 4 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Daumantas       | Savanorių pr. 102    | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: Z123  | 1vnt.|
+|Kasparavičienė  | Jonavos g. 22A       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 8 mėn.| Leidinio kodas: KKM2  | 2vnt.|
+|Ramadis         | Studentų g. 69       | Užsakyta: 3 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Suslavičius     | Šilelio a. 8         | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 2 mėn.| Leidinio kodas: V777  | 4vnt.|
+|Pocius          | Studentų g. 70       | Užsakyta: 2 mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RK44  | 2vnt.|
+|Kestutėnas      | Malibū g. 8          | Užsakyta: 9 mėn. | Prenumeravimo trukmė: 1 mėn.| Leidinio kodas: Z321  | 3vnt.|
+|Jonaitis        | Baršausko g. 15      | Užsakyta: 12mėn. | Prenumeravimo trukmė: 4 mėn.| Leidinio kodas: RQ458 | 1vnt.|
+|Simaitis        | Daukanto g. 11       | Užsakyta: 11mėn. | Prenumeravimo trukmė: 3 mėn.| Leidinio kodas: RK44  | 2vnt.|
+.........................................................................................................................
+
+
+Leidiniai
+......................................................................................
+|Verslo diena    | Leidėjas: Verslo žinios   | Leidinio kodas: V777  | Kaina:   5,5eu|
+|Bulvaras        | Leidėjas: Rytas           | Leidinio kodas: RK44  | Kaina:     3eu|
+|Kauno diena     | Leidėjas: Kauno Spauda    | Leidinio kodas: K16A  | Kaina:   2,5eu|
+|Savaite         | Leidėjas: Lietuvos žinios | Leidinio kodas: Z123  | Kaina:   4,4eu|
+|Valstybė        | Leidėjas: Lietuvos žinios | Leidinio kodas: Z321  | Kaina:   3,3eu|
+|Smagios žinios  | Leidėjas: Kauno Spauda    | Leidinio kodas: KKM2  | Kaina:   0,5eu|
+|Prie kavos      | Leidėjas: Rytas           | Leidinio kodas: RQ458 | Kaina:     1eu|
+......................................................................................
+
+
+1 mėnesio leidėjų pajamos:
+.............................
+|    Leidėjas    |Uždirbo,eu|
+|Verslo žinios   |         0|
+|Rytas           |        56|
+|Kauno Spauda    |        20|
+|Lietuvos žinios |         0|
+.............................
+
+
+Visų mėnesių leidėjų pajamos:
+......................................
+|Verslo žinios   | Uždirbo:     352eu|
+|Leidiniai:                          |
+|Verslo diena    | Uždirbo:     352eu|
+......................................
+|Rytas           | Uždirbo:     400eu|
+|Leidiniai:                          |
+|Bulvaras        | Uždirbo:     336eu|
+|Prie kavos      | Uždirbo:      64eu|
+......................................
+|Kauno Spauda    | Uždirbo:     112eu|
+|Leidiniai:                          |
+|Kauno diena     | Uždirbo:      40eu|
+|Smagios žinios  | Uždirbo:      72eu|
+......................................
+|Lietuvos žinios | Uždirbo:   149,6eu|
+|Leidiniai:                          |
+|Savaite         | Uždirbo:    70,4eu|
+|Valstybė        | Uždirbo:    79,2eu|
+......................................
+
+
+Surikuotos visų mėnesių leidėjų pajamos:
+......................................
+|Lietuvos žinios | Uždirbo:   149,6eu|
+|Leidiniai:                          |
+|Savaite         | Uždirbo:    70,4eu|
+|Valstybė        | Uždirbo:    79,2eu|
+......................................
+|Verslo žinios   | Uždirbo:     352eu|
+|Leidiniai:                          |
+|Verslo diena    | Uždirbo:     352eu|
+......................................
+|Kauno Spauda    | Uždirbo:     112eu|
+|Leidiniai:                          |
+|Kauno diena     | Uždirbo:      40eu|
+|Smagios žinios  | Uždirbo:      72eu|
+......................................
+|Rytas           | Uždirbo:     400eu|
+|Leidiniai:                          |
+|Bulvaras        | Uždirbo:     336eu|
+|Prie kavos      | Uždirbo:      64eu|
+......................................
+
+
