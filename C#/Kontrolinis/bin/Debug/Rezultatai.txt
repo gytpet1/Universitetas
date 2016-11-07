@@ -1,0 +1,12 @@
+--------------------------------------------------
+Leidejas   Pavadinimas         Kiekis    Kaina
+--------------------------------------------------
+           Mazas lapas              1     14,6
+           Didelis medis            1      4,5
+           Mada                     1     33,5
+           Mazas lapas              1     14,6
+           Didelis medis            1      4,5
+           Mada                     1     33,5
+           Statyk                   1      125
+
+352,4

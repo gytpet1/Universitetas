@@ -1,0 +1,5 @@
+and      ,know   its    resulting length      in           advance, 
+ethen     nalso  ouse   an        appropriate constructor, this     is        much       more efficient
+because   it     means  that      only        one          time-    consuming allocation 
+takes     place, and    no        unnecessary copying      of       data.     
+Nonsense: of     course the       above       code         is       more      efficient. 

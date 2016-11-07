@@ -1,0 +1,6 @@
+c:\users\dziufas\documents\visual studio 2015\Projects\K1pvz6\K1pvz6\bin\Debug\K1pvz6.exe.config
+c:\users\dziufas\documents\visual studio 2015\Projects\K1pvz6\K1pvz6\bin\Debug\K1pvz6.exe
+c:\users\dziufas\documents\visual studio 2015\Projects\K1pvz6\K1pvz6\bin\Debug\K1pvz6.pdb
+c:\users\dziufas\documents\visual studio 2015\Projects\K1pvz6\K1pvz6\obj\Debug\K1pvz6.csprojResolveAssemblyReference.cache
+c:\users\dziufas\documents\visual studio 2015\Projects\K1pvz6\K1pvz6\obj\Debug\K1pvz6.exe
+c:\users\dziufas\documents\visual studio 2015\Projects\K1pvz6\K1pvz6\obj\Debug\K1pvz6.pdb
